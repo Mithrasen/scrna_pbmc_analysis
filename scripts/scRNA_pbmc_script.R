@@ -1,9 +1,3 @@
-#Name- Adwitiya Argha Priyadarshini Boruah
-#Matriculation Number- 7070291
-#Name- Yoga Mithra Senthil Kumar 
-#Matriculation Number – 7071153
-
-
 #installed and running the necessary libraries
 suppressPackageStartupMessages({
   library(dplyr)    
